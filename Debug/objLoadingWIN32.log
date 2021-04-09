@@ -1,0 +1,30 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Shader.cpp
+  Octree.cpp
+  IntersectionTests.cpp
+  TextureHandler.cpp
+  Vector3d.cpp
+  Vector2d.cpp
+  OBJLoader.cpp
+  imageLoaderPNG.cpp
+  threeDModel.cpp
+  BoundingBox.cpp
+  main.cpp
+C:\Users\Alexander\Documents\work\git\finalProject\Camera.h(18,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+C:\Users\Alexander\Documents\work\git\finalProject\main.cpp(320,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  HandleBar.cpp
+C:\Users\Alexander\Documents\work\git\finalProject\Camera.h(18,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  ground.cpp
+C:\Users\Alexander\Documents\work\git\finalProject\camera.h(18,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  FirstWheel.cpp
+C:\Users\Alexander\Documents\work\git\finalProject\Camera.h(18,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Chassis.cpp
+C:\Users\Alexander\Documents\work\git\finalProject\Camera.h(18,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Camera.cpp
+C:\Users\Alexander\Documents\work\git\finalProject\Camera.h(18,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Box.cpp
+  backWheels.cpp
+C:\Users\Alexander\Documents\work\git\finalProject\Camera.h(18,2): warning C4091: 'static ': ignored on left of 'Camera' when no variable is declared
+  Generating Code...
+backWheels.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  objLoadingWIN32.vcxproj -> C:\Users\Alexander\Documents\work\git\finalProject\Debug\objLoadingWIN32.exe

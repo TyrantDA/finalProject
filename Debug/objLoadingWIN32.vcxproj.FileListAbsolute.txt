@@ -1,0 +1,2 @@
+C:\Users\Alexander\Documents\work\git\finalProject\Debug\objLoadingWIN32.exe
+C:\Users\Alexander\Documents\work\git\finalProject\Debug\objLoadingWIN32.pdb
